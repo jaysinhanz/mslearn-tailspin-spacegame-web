@@ -1,5 +1,6 @@
 trigger:
-  - '*'
+  - buil-pipeline
+  - main
   
   pool:
     vmImage: 'ubuntu-20.04'
